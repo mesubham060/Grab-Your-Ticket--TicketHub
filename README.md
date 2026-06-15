@@ -1,4 +1,4 @@
-# Grab-Your-Ticket-Real-Time-Ticket-Booking-Platform
+# Grab-Your-Ticket-TicketHub
 📌 Project Overview
 
 Grab Your Ticket is a real-time ticket booking web application that allows users to search, view availability, and book tickets easily. The platform provides a simple and user-friendly interface to make the booking process fast and convenient.
