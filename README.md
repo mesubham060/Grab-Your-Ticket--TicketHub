@@ -49,7 +49,8 @@ npm start
 The purpose of this project is to demonstrate how a real-time booking platform works and to showcase web development skills.
 
 Developed by:
-RAJA SWAIN
+SUBHAM PRIYADARSAN TRIPATHY
+
 
 👨‍💻 Author
 
